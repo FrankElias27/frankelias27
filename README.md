@@ -1,11 +1,17 @@
-## ¡Hola! 👋 Soy Frank, un Desarrollador Java Junior
+## ¡Hola!, Soy Frank Elias, Desarrollador Java Junior 👋 
 
-¡Bienvenido a mi perfil de GitHub! Aquí te dejo un poco sobre mí:
+🎯 Soy desarrollador de software apasionado por la arquitectura de microservicios, la nube y las soluciones escalables.
 
-- 🔭 Actualmente estoy trabajando en la construcción de sistemas back-end eficientes utilizando **Java** y **Spring Boot**.
-- 🌱 Actualmente estoy aprendiendo más sobre **microservicios**, **tecnologías en la nube** y **pruebas unitarias**.
-- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/frank-elias-mascco-oscco-4095b9261/) o [Email](mailto:frankmascco@gmail.com)
+## Stack tecnológico ⌨
+- Spring Boot ⭐
+- Angular ⭐
+- MySQL ⭐
+- Apache Kafka ⭐
+- Keycloak for authentication and authorization
+- Grafana Stack (Prometheus, Grafana, Loki & Tempo) for observability 📊
+- Docker for containerization 🐳
+- Kubernetes for orchestration ☸️
 
-- ⚡ Curiosidad: Me encanta resolver desafíos de programación y soy muy apasionado por aprender nuevas tecnologías.
-
-¡No dudes en explorar mis repositorios y contactarme si te gustaría colaborar! 🚀
+## Acerca de mí 🚀
+Soy un desarrollador con experiencia en el diseño y despliegue de aplicaciones backend con Spring Boot y frontend con Angular, enfocado en arquitecturas modernas basadas en microservicios. He trabajado con tecnologías como Docker y Kubernetes para la contenedorización y orquestación de servicios, así como con herramientas de observabilidad como el Grafana Stack (Prometheus, Loki, Tempo).
+Además, integro soluciones con Apache Kafka para mensajería distribuida y Keycloak para la gestión de identidad y acceso. Utilizo MySQL como sistema de base de datos principal, y tengo experiencia desplegando sistemas en servidores Linux, configurando proxys con Nginx, y gestionando servicios con systemd.
